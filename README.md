@@ -5,6 +5,7 @@
 ![Languages](https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=liku88&layout=compact&theme=chartreuse-dark)
 
 ### Hi there 👋
+### ![Visit Readme!](https://media.giphy.com/media/6CaZJ590H3Q8XMNtjk/giphy.gif)
 <a href="https://dev.to/liku88">
   <img src="https://d2fltix0v2e0sb.cloudfront.net/dev-badge.svg" alt="Mangaldeep Das's DEV Profile" height="30" width="30">
 </a>
