@@ -1,1 +1,1 @@
-I will be back with a bang soon.
+https://mangaldeep.me/
